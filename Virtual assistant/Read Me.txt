@@ -1,0 +1,10 @@
+In this program i have tried to create a virtual assistant like google assistant called "FRIDAY"
+Friday completely working on speech recognization system and u can give oders to it through
+speech. FRIDAY is not as evolved as Google assistant as i have give it some basic features to it 
+1.Web search --- ("Say '*search*' wait for it to respond and then tell it what you want to search") 
+2.time and date -- ("say time or date")
+3.find loaction -- ("Say '*find location*" wait for it to respond and then tell it location you want to search")
+4.some other basic questions
+
+
+
