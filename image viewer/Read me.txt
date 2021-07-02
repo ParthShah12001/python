@@ -1,0 +1,4 @@
+in this program i have created a image viwer like the one which comes pre install on our pc. The 
+image viewer will dynamically change its size as the size of image changes.
+for this program to work u will need to change the loction of image in the program i have also 
+uploaded some screen shots of it 
